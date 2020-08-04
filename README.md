@@ -2,7 +2,7 @@
 <h2 align="center">I am Neha Malvia:information_desk_person:</h2>
 
 <h4>About Me</h4>
-:bulb: I can call myself a tech enthusiast.
+:bulb: I am a AI enthusiast.
 <br>
 :page_facing_up: <a href="https://nehasm.github.io/">Portfolio</a>
 <br>
