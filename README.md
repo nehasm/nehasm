@@ -17,4 +17,4 @@
 :stuck_out_tongue_closed_eyes: Coffee and Laptop made my world best. 
 
 <h4>Find me on social media</h4>
-<a><img src="https://github.com/nehasm/nehasm/blob/master/socialmedia/linkedin.svg" width="10" height="10"></a>
+<a><img src="https://github.com/nehasm/nehasm/blob/master/socialmedia/linkedin.svg" width="60" height="60"></a>
