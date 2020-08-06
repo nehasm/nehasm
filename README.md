@@ -1,4 +1,4 @@
-<img src="https://github.com/nehasm/nehasm/blob/master/helloworld.gif">
+<img src="https://github.com/nehasm/nehasm/blob/master/helloworld.gif" width="1000" heigth="1000">
 <h2 align="center">I am Neha Malvia:information_desk_person:</h2>
 
 <h4>About Me :book: </h4>
