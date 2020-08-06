@@ -16,4 +16,5 @@
 <br>
 :stuck_out_tongue_closed_eyes: Coffee and Laptop made my world best. 
 
-<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<h4>Find me on social media</h4>
+<a><img src="https://github.com/nehasm/nehasm/blob/master/socialmedia/linkedin.svg"></a>
