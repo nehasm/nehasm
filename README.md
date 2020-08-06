@@ -18,7 +18,7 @@
 
 <h4>Find me on social media</h4>
 <a href="https://www.linkedin.com/in/neha-malvia-ab763318a/" align="center"><img src="https://github.com/nehasm/nehasm/blob/master/socialmedia/linkedin.svg" width="50" height="50"></a>
-<p>" "</p>
+<p></p>
 <a href="https://www.facebook.com/people/Neha-Malvia/100022612763711" align="center"><img src="https://github.com/nehasm/nehasm/blob/master/socialmedia/facebook.svg" width="50" height="50"></a>
-<p>" "</p>
+<p></p>
 <a href="https://www.instagram.com/nehamalviaa/" align="center"><img src="https://github.com/nehasm/nehasm/blob/master/socialmedia/instagram.svg" width="50" height="50"></a>
