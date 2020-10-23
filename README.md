@@ -8,8 +8,6 @@
 <br>
 :computer: I am currently exploring algorithms world.
 <br>
-:books: Preparing for competitive exam.
-<br>
 :pushpin: Working on AI projects.
 <br>
 :speech_balloon: Ask me anything related to AI.
