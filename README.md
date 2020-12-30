@@ -4,7 +4,7 @@
 <h3>About Me :book: </h3>
 :bulb: I am a AI enthusiast.
 <br>
-:page_facing_up: <a href="https://nehasm.github.io/">Portfolio</a>
+:page_facing_up: <a href="">Portfolio</a>
 <br>
 :computer: I am currently exploring algorithms world.
 <br>
